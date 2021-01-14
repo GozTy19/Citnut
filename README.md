@@ -1,6 +1,7 @@
 # Hi there 👋
-#### 🔭 I’m currently working on TT Hữu Lũng, Lạng Sơn
-#### 🌱 I’m currently learning Nodejs
+#### 🔭 sống tại TT Hữu Lũng, TP Lạng Sơn
+#### 🌱 tui đang học Nodejs nè
+#### 👰 he he cái đồ ngu ngok
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Citnut&show_icons=true&theme=nightowl)](https://github.com/Citnut)
 
 <br>
@@ -13,10 +14,9 @@
 <br>
 <br>
 <p align="center">
-  <a href="https://khoakomlem.netlify.app/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/internetexplorer.svg" alt="portfolio" height="30" width="30" /></a>
-<a href="https://twitter.com/khoakomlem" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="30" /></a>
-  <a href="https://facebook.com/khoakomlem" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30" width="30" /></a>
+  <a href="https://facebook.com/100048509610460" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30" width="30" /></a>
 </p>
 <br>
 <br>
 <br>
+#### 🎅 cái này bắt chước của a Khoa Ko Mlem nè
