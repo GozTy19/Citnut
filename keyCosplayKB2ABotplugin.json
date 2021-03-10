@@ -4,7 +4,7 @@
   "api": "https://api.berver.tech/cosplay",
   "min": 1,
   "max": 100,
-  "key": "cosplay",
+  "key": ["cosplay"],
   "del": 1,
   "no": 0
 }
