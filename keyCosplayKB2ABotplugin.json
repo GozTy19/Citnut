@@ -4,7 +4,7 @@
     "author": "Nguyễn Thanh Chính",
     "api": "https://api.berver.tech/cosplay",
     "min": 1,
-    "max": 100,
+    "max": 200,
     "del": 1,
     "no": 0
   }
