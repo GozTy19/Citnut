@@ -1,7 +1,11 @@
-  "work": {
-    "min": 100,
-    "max": 300
-  },
-  "cooldown": {
-    "work": 10
+{
+  "data": {
+    "work": {
+      "min": 100,
+      "max": 300
+    },
+    "cooldown": {
+      "work": 10
+    }
   }
+}
