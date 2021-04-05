@@ -1,0 +1,10 @@
+{
+  "data": {
+    "status": "active",
+    "deploy": "",
+    "api": {
+      "girl": "http://gn5.ectrix.xyz:2392/girl",
+      "boy": "http://gn5.ectrix.xyz:2392/boy"
+    }
+  }
+}
