@@ -1,6 +1,7 @@
 {
   "data": {
     "status": "active",
+    "key": "NTC2-8022-k7ng-413C",
     "deploy": "",
     "api": {
       "girl": "http://gn5.ectrix.xyz:2392/girl",
