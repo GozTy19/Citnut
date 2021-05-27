@@ -41,7 +41,7 @@
     "func": "+mHP",
     "eff": {
       "input": -1,
-      "output": +25
+      "output": 25
     }
   }
 }
