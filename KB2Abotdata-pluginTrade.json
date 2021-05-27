@@ -1,0 +1,47 @@
+{
+  "id 5414": {
+    "item": "súng ak",
+    "amount": 1,
+    "price": 2500,
+    "sell": {
+      "min": 500,
+      "max": 1500
+    },
+    "req": "id 13212",
+    "func": "-vHP",
+    "eff": {
+      "input": -1,
+      "output": {
+        "min": -20,
+        "max": -60
+      }
+    }
+  },
+  "id 13212": {
+    "item": "bullet 39mm",
+    "amount": 5,
+    "price": 500,
+    "sell": {
+      "min": 50,
+      "max": 400
+    },
+    "req": "id 5414",
+    "func": "use",
+    "eff": "none"   
+  },
+  "id 13411": {
+    "item": "bandages",
+    "amount": 1,
+    "price": 250,
+    "sell": {
+      "min": 50,
+      "max": 200
+    },
+    "req": "none",
+    "func": "+mHP",
+    "eff": {
+      "input": -1,
+      "output": +25
+    }
+  }
+}
