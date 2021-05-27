@@ -4,8 +4,8 @@
     "amount": 1,
     "price": 4000,
     "sell": {
-      "min": 500,
-      "max": 1500
+      "min": 1500,
+      "max": 3000
     },
     "req": "id 13212",
     "func": "-vHP",
