@@ -1,5 +1,5 @@
 {
-  "id 5414": {
+  "5414": {
     "item": "súng ak",
     "amount": 1,
     "price": 2500,
@@ -17,7 +17,7 @@
       }
     }
   },
-  "id 13212": {
+  "13212": {
     "item": "bullet 39mm",
     "amount": 5,
     "price": 500,
@@ -29,7 +29,7 @@
     "func": "use",
     "eff": "none"   
   },
-  "id 13411": {
+  "13411": {
     "item": "bandages",
     "amount": 1,
     "price": 250,
