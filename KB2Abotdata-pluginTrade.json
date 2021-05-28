@@ -10,10 +10,10 @@
     "req": "id 13212",
     "func": "-vHP",
     "eff": {
-      "input": -1,
+      "input": 1,
       "output": {
-        "min": -20,
-        "max": -60
+        "min": 20,
+        "max": 60
       }
     }
   },
@@ -40,7 +40,7 @@
     "req": "none",
     "func": "+mHP",
     "eff": {
-      "input": -1,
+      "input": 1,
       "output": 25
     }
   }
