@@ -3,28 +3,16 @@
     "item": "súng ak",
     "amount": 1,
     "price": 4000,
-    "sell": {
-      "min": 1500,
-      "max": 3000
-    },
+    "sell": { "min": 1500, "max": 3000 },
     "req": "id 13212",
     "func": "-vHP",
-    "eff": {
-      "input": 1,
-      "output": {
-        "min": 20,
-        "max": 50
-      }
-    }
+    "eff": { "input": 1, "output": { "min": 20, "max": 50 } }
   },
   "id13212": {
     "item": "đạn 39mm",
     "amount": 5,
     "price": 500,
-    "sell": {
-      "min": 50,
-      "max": 400
-    },
+    "sell": { "min": 50, "max": 400 },
     "req": "id 5414",
     "func": "use",
     "eff": "none"   
@@ -33,15 +21,72 @@
     "item": "bandages",
     "amount": 1,
     "price": 250,
-    "sell": {
-      "min": 50,
-      "max": 200
-    },
+    "sell": { "min": 50, "max": 200 },
     "req": "none",
     "func": "+mHP",
-    "eff": {
-      "input": 1,
-      "output": 25
-    }
+    "eff": { "input": 1, "output": 25 }
+  },
+  "id4011": {
+    "item": "áo giáp lv1",
+    "amount": 1,
+    "price": 1800,
+    "sell": { "min": 800, "max": 1200 },
+    "req": "none",
+    "func": "-d",
+    "eff": { "input": 2, "limit": 140 }
+  },
+  "id4012": {
+    "item": "áo giáp lv2",
+    "amount": 1,
+    "price": 2500,
+    "sell": { "min": 1200, "max": 2000 },
+    "req": "none",
+    "func": "-d",
+    "eff": { "input": 4, "limit":  400 }
+  },
+  "id4013": {
+    "item": "áo giáp lv3",
+    "amount": 1,
+    "price": 5000,
+    "sell": { "min": 2000, "max": 4000 },
+    "req": "none",
+    "func": "-d",
+    "eff": { "input": 6, "limit": 900 }
+  },
+  "id1111": {
+    "item": "mũ giáp lv1",
+    "amount": 1,
+    "price": 1000,
+    "sell": { "min": 300, "max": 800 },
+    "req": "none",
+    "func": "-d",
+    "eff": { "input": 1, "limit": 70 }
+  },
+  "id1112": {
+    "item": "mũ giáp lv2",
+    "amount": 1,
+    "price": 1500,
+    "sell": { "min": 800, "max": 1200 },
+    "req": "none",
+    "func": "-d",
+    "eff": { "input": 2, "limit": 200 }
+  },
+  "id1113": {
+    "item": "mũ giáp lv3",
+    "amount": 1,
+    "price": 2500,
+    "sell": { "min": 1200, "max": 2000 },
+    "req": "none",
+    "func": "-d",
+    "eff": { "input": 3, "limit": 450 }
+  },
+  "id7131": {
+    "item": "mũi tiêm hồi phục",
+    "amount": 1,
+    "price": 600,
+    "sell": { "min": 200, "max": 400 },
+    "req": "none",
+    "func": "+mHP",
+    "eff": { "input": 1, "output": 80 }
   }
 }
