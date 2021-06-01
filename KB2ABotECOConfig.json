@@ -4,8 +4,13 @@
       "min": 100,
       "max": 300
     },
+    "slut": {
+      "min": 200,
+      "max": 800
+    },
     "cooldown": {
-      "work": 10
+      "work": 10,
+      "slut": 15
     }
   }
 }
