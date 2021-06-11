@@ -1,5 +1,4 @@
 {
-  "data": {
     "work": {
       "min": 100,
       "max": 300
@@ -11,12 +10,11 @@
     "crime": {
       "min": 500,
       "max": 1200,
-      "lose": [{100},{500}]
+      "lose": { "min": 100, "max": 400 } 
     },
     "cooldown": {
       "work": 10,
       "slut": 15,
       "crime": 30
     }
-  }
 }
