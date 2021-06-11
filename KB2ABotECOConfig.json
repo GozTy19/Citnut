@@ -8,9 +8,15 @@
       "min": 200,
       "max": 800
     },
+    "crime": {
+      "min": 500,
+      "max": 1200,
+      "lose": [{100},{500}]
+    },
     "cooldown": {
       "work": 10,
-      "slut": 15
+      "slut": 15,
+      "crime": 30
     }
   }
 }
