@@ -3,5 +3,6 @@
   "author": "Citnut",
   "info": "ntc.mdh.1",
   "key": "23298181",
+  "link": ["https://www.java.com/en/download/manual.jsp", "https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-windows-amd64.zip"],
   "run": "@echo off\njava -Xmx1600M -Xms200M -jar server.jar nogui\npause"
 }
