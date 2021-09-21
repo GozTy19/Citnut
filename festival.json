@@ -1,4 +1,12 @@
 {
 	"trungthu": ["september 21, 2021 00:00:00", "september 10, 2022 00:00:00"],
-	"tet": ["february 1, 2022 00:00:00", "january 22, 2023 00:00:00"]
+	"tet": ["february 1, 2022 00:00:00", "january 22, 2023 00:00:00"],
+	"tetthieunhi": ["june 1, 2022 00:00:00", "june 1, 2023 00:00:00"],
+	"ca": ["april 1, 2022 00:00:00", "april 1, 2023 00:00:00"],
+	"check": { 
+		"trungthu": [ 21, 09 ],
+		"tet": [ 01, 02 ],
+		"tetthieunhi": [ 01, 06],
+		"ca": [ 01, 04 ]
+	}
 }
