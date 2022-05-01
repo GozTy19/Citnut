@@ -1,5 +1,5 @@
 # Chào Bạn 👋
-#### 🔭 tui sống tại TT Hữu Lũng, TP Lạng Sơn
+#### 🔭 tui sống tại An Viên - Tiên Lữ - Hưng Yen
 #### 🌱 tui đang học Nodejs nè
 #### 👰 he he tui là nhà nghiên cứu ngu ngok
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Citnut&show_icons=true&theme=nightowl)](https://github.com/Citnut)
