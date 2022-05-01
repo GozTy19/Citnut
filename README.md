@@ -1,8 +1,8 @@
 # Chào Bạn 👋
-#### 🔭 tui sống tại An Viên - Tiên Lữ - Hưng Yen
+#### 🔭 tui sống tại An Viên - Tiên Lữ - Hưng Yên
 #### 🌱 tui đang học Nodejs nè
 #### 👰 he he tui là nhà nghiên cứu ngu ngok
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Citnut&show_icons=true&theme=nightowl)](https://github.com/Citnut)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GozTy19&show_icons=true&theme=nightowl)](https://github.com/GozTy19)
 
 <br>
 <br>
